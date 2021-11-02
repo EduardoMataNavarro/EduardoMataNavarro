@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EduardoMataNavarro
-- 👀 I’m interested in front-end and back-end security, optimization and contenerization  
+- 👀 I’m interested in front-end and back-end security, optimization and containerization  
 - 🌱 I’m currently learning ASP.NET CORE and BLAZOR pages
 - 💞️ I’m looking to collaborate on interesting web projects to improve everyone's everyday workflow
 
